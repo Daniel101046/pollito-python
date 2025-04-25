@@ -1,6 +1,6 @@
-import pygame
 import random
 import time
+import pygame
 
 # Inicializar Pygame
 pygame.init()
